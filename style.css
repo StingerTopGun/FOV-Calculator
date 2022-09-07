@@ -10,7 +10,7 @@ body>div:first-child {
 }
 
 #screensize-handle, #distance-handle, #bezel-handle {
-	width: 2em;
+	width: 3em;
 	height: 1.5em;
 	top: 50%;
 	margin-top: -.75em;
